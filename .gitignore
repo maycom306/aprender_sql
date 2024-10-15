@@ -1,0 +1,6 @@
+*.pyc
+*.vscode
+.vscode
+*.csv
+*.db
+data/olist.db
