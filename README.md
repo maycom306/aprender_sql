@@ -22,5 +22,17 @@ Comecei a aprender SQL com o curso gratuito do Téo me Why no dia 10/10/2024. O 
   - `GROUP BY`
   - `ORDER BY`
   - `HAVING`
+  - `MAX`
+  - `MIN`
+  - `AVG`
 
-
+### Aula 3
+- **Revisão dos Exercícios**
+  - Esclarecimento de dúvidas.
+  **Novos comando**
+  - `CASE`
+  - `COALESCE`
+  - `LIKE`
+  - `ISNULL`
+  - `AVG`
+  - `DISTINCT`
