@@ -34,5 +34,15 @@ Comecei a aprender SQL com o curso gratuito do Téo me Why no dia 10/10/2024. O 
   - `COALESCE`
   - `LIKE`
   - `ISNULL`
-  - `AVG`
   - `DISTINCT`
+
+### Aula 4
+- **Explicação do conteudo**
+  - Analogia utilizando planilhas para entender os JOIN's.
+- **Novos comando**
+  - `Left Join`
+  - `right join`
+  - `Inter join`
+  - ``
+  - ``
+  - ``
