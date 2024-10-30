@@ -39,10 +39,11 @@ Comecei a aprender SQL com o curso gratuito do Téo me Why no dia 10/10/2024. O 
 ### Aula 4
 - **Explicação do conteudo**
   - Analogia utilizando planilhas para entender os JOIN's.
+  - Um grande apredizado sobre junção de tabelas.
+  - dificuldade de enteder no ínicio mas com o passar foi ficando mais facil.
 - **Novos comando**
   - `Left Join`
   - `right join`
-  - `Inter join`
-  - ``
-  - ``
-  - ``
+  - `Inner join`
+  - `Chave primaria (PK)`
+  - `Chave estrangeria (FK)`
